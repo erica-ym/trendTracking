@@ -1,0 +1,16 @@
+{
+  "name": "twitter-testing",
+  "version": "1.0.0",
+  "description": "tracking trends culture health twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "file-system": "^2.2.2",
+    "twitter": "^1.7.1"
+  }
+}

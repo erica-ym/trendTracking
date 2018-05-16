@@ -1,0 +1,2922 @@
+{
+    "statuses": [
+        {
+            "created_at": "Mon May 14 01:51:10 +0000 2018",
+            "id": 995843933690216400,
+            "id_str": "995843933690216448",
+            "text": "@Saul_oCano @Davidit_ Definitivamente no fue un partido.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Saul_oCano",
+                        "name": "Saúl Cano",
+                        "id": 172490668,
+                        "id_str": "172490668",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "Davidit_",
+                        "name": "David Chávez.",
+                        "id": 1276551350,
+                        "id_str": "1276551350",
+                        "indices": [
+                            12,
+                            21
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 995843689762230300,
+            "in_reply_to_status_id_str": "995843689762230272",
+            "in_reply_to_user_id": 172490668,
+            "in_reply_to_user_id_str": "172490668",
+            "in_reply_to_screen_name": "Saul_oCano",
+            "user": {
+                "id": 173174626,
+                "id_str": "173174626",
+                "name": "Rubens",
+                "screen_name": "rubenruizlsaa",
+                "location": "D.F. ",
+                "description": "La intentamos cagar, no hemos podido.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 439,
+                "friends_count": 340,
+                "listed_count": 3,
+                "created_at": "Sat Jul 31 16:56:20 +0000 2010",
+                "favourites_count": 5847,
+                "utc_offset": -18000,
+                "time_zone": "America/Mexico_City",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12122,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/743593900/305ec9bf8116eb1fc1b9715a34a5e685.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/743593900/305ec9bf8116eb1fc1b9715a34a5e685.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/951022439097618433/3DafCwMK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/951022439097618433/3DafCwMK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/173174626/1518719578",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:09 +0000 2018",
+            "id": 995843931605815300,
+            "id_str": "995843931605815297",
+            "text": "RT @HDRacingClub: Colón necesita ganar para clasificar a la Copa Sudamericana. No va a ser fácil el partido de mañana.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HDRacingClub",
+                        "name": "Hablemos De Racing",
+                        "id": 970512593289994200,
+                        "id_str": "970512593289994240",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1665947946,
+                "id_str": "1665947946",
+                "name": "EdogawaConan♡",
+                "screen_name": "StefyMartinez08",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 770,
+                "friends_count": 569,
+                "listed_count": 3,
+                "created_at": "Mon Aug 12 20:36:23 +0000 2013",
+                "favourites_count": 44043,
+                "utc_offset": -10800,
+                "time_zone": "Buenos Aires",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21544,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F7C5DE",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505221414828265472/ztfvdrDw.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505221414828265472/ztfvdrDw.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/945868144622690304/KrRAsbuU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/945868144622690304/KrRAsbuU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665947946/1486536690",
+                "profile_link_color": "FF73FF",
+                "profile_sidebar_border_color": "76004F",
+                "profile_sidebar_fill_color": "78004F",
+                "profile_text_color": "CA1BB8",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon May 14 00:59:32 +0000 2018",
+                "id": 995830939157717000,
+                "id_str": "995830939157716992",
+                "text": "Colón necesita ganar para clasificar a la Copa Sudamericana. No va a ser fácil el partido de mañana.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 970512593289994200,
+                    "id_str": "970512593289994240",
+                    "name": "Hablemos De Racing",
+                    "screen_name": "HDRacingClub",
+                    "location": "Cilindro de Avellaneda.",
+                    "description": "Cuenta para debatir sobre Racing, y del futbol en general.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 787,
+                    "friends_count": 4154,
+                    "listed_count": 0,
+                    "created_at": "Mon Mar 05 04:13:28 +0000 2018",
+                    "favourites_count": 22,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 198,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/970517698294755328/MZp6iBYQ_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/970517698294755328/MZp6iBYQ_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/970512593289994240/1520224420",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 5,
+                "favorite_count": 13,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:09 +0000 2018",
+            "id": 995843930951303200,
+            "id_str": "995843930951303168",
+            "text": "Aficionados del América cuando les empatan el partido. https://t.co/ihGz265MCc",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 995843878715510800,
+                        "id_str": "995843878715510784",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DdHyu0KV0AAFIRi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DdHyu0KV0AAFIRi.jpg",
+                        "url": "https://t.co/ihGz265MCc",
+                        "display_url": "pic.twitter.com/ihGz265MCc",
+                        "expanded_url": "https://twitter.com/joelmm11/status/995843930951303168/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 719,
+                                "h": 719,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 719,
+                                "h": 719,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 995843878715510800,
+                        "id_str": "995843878715510784",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DdHyu0KV0AAFIRi.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DdHyu0KV0AAFIRi.jpg",
+                        "url": "https://t.co/ihGz265MCc",
+                        "display_url": "pic.twitter.com/ihGz265MCc",
+                        "expanded_url": "https://twitter.com/joelmm11/status/995843930951303168/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 719,
+                                "h": 719,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 719,
+                                "h": 719,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 228559282,
+                "id_str": "228559282",
+                "name": "Mr. Robot",
+                "screen_name": "joelmm11",
+                "location": "Xalapa, Veracruz de Ignacio de la Llave",
+                "description": "Solo vivo para comprar libros y ver cualquier serie que este en Netflix #Odiolieber #GoNiners",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 137,
+                "friends_count": 211,
+                "listed_count": 0,
+                "created_at": "Mon Dec 20 02:27:20 +0000 2010",
+                "favourites_count": 2510,
+                "utc_offset": -18000,
+                "time_zone": "Mexico City",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1580,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000007181944/7a75e7b067db0748444f8659ad58bd71.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000007181944/7a75e7b067db0748444f8659ad58bd71.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/949127136555618305/JFqwhI3X_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/949127136555618305/JFqwhI3X_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/228559282/1500615385",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:09 +0000 2018",
+            "id": 995843929668051000,
+            "id_str": "995843929668050944",
+            "text": "RT @LauRodriguez69: Nuevamente de regreso mis machos, viendo el partido a quien le van. Besos\n@muy_cornudos \n@FantasiaCuckold \n@Arrimoneros…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LauRodriguez69",
+                        "name": "Dragonsita",
+                        "id": 926193230676480000,
+                        "id_str": "926193230676480001",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "muy_cornudos",
+                        "name": "MuyCornudos",
+                        "id": 3044562190,
+                        "id_str": "3044562190",
+                        "indices": [
+                            94,
+                            107
+                        ]
+                    },
+                    {
+                        "screen_name": "FantasiaCuckold",
+                        "name": "FantasiasCuckold150k",
+                        "id": 2263046774,
+                        "id_str": "2263046774",
+                        "indices": [
+                            109,
+                            125
+                        ]
+                    },
+                    {
+                        "screen_name": "Arrimoneros",
+                        "name": "ArrimonesConsentidos",
+                        "id": 2732241255,
+                        "id_str": "2732241255",
+                        "indices": [
+                            127,
+                            139
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 955987113366949900,
+                "id_str": "955987113366949888",
+                "name": "manuel zamora",
+                "screen_name": "manuelz10945584",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 59,
+                "friends_count": 356,
+                "listed_count": 0,
+                "created_at": "Wed Jan 24 02:14:24 +0000 2018",
+                "favourites_count": 1561,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 495,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/986796279085830149/wG0ZCy_N_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/986796279085830149/wG0ZCy_N_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 06 01:19:48 +0000 2018",
+                "id": 992936939551674400,
+                "id_str": "992936939551674369",
+                "text": "Nuevamente de regreso mis machos, viendo el partido a quien le van. Besos\n@muy_cornudos \n@FantasiaCuckold… https://t.co/r7sOVcXBs5",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "muy_cornudos",
+                            "name": "MuyCornudos",
+                            "id": 3044562190,
+                            "id_str": "3044562190",
+                            "indices": [
+                                74,
+                                87
+                            ]
+                        },
+                        {
+                            "screen_name": "FantasiaCuckold",
+                            "name": "FantasiasCuckold150k",
+                            "id": 2263046774,
+                            "id_str": "2263046774",
+                            "indices": [
+                                89,
+                                105
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/r7sOVcXBs5",
+                            "expanded_url": "https://twitter.com/i/web/status/992936939551674369",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                107,
+                                130
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 926193230676480000,
+                    "id_str": "926193230676480001",
+                    "name": "Dragonsita",
+                    "screen_name": "LauRodriguez69",
+                    "location": "México",
+                    "description": "Pareja de 27 y 33 sw, cuckold, exhibicionismo es lo nuestro.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 103474,
+                    "friends_count": 1027,
+                    "listed_count": 173,
+                    "created_at": "Thu Nov 02 21:04:08 +0000 2017",
+                    "favourites_count": 4916,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 232,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/932809446752911361/_7Mn0CMx_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/932809446752911361/_7Mn0CMx_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/926193230676480001/1509928341",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 427,
+                "favorite_count": 2345,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 427,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:09 +0000 2018",
+            "id": 995843929336672300,
+            "id_str": "995843929336672256",
+            "text": "RT @futpicante: ¿Qué arquero llevará a su equipo a la final del #Clausura2018? 🤔\n\n🔁 RT: Marchesín\n❤ MG: Orozco\n\n👉 https://t.co/vbDVfsySil h…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Clausura2018",
+                        "indices": [
+                            64,
+                            77
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "futpicante",
+                        "name": "Fútbol Picante",
+                        "id": 94429039,
+                        "id_str": "94429039",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/vbDVfsySil",
+                        "expanded_url": "http://bit.ly/2G9B56h",
+                        "display_url": "bit.ly/2G9B56h",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1215779910,
+                "id_str": "1215779910",
+                "name": "Jorge Roque",
+                "screen_name": "RooqueJorge",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 13,
+                "friends_count": 197,
+                "listed_count": 0,
+                "created_at": "Sun Feb 24 15:29:17 +0000 2013",
+                "favourites_count": 655,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 148,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3334329356/281a9b9c9852b65274f0f6937c61b521_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3334329356/281a9b9c9852b65274f0f6937c61b521_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1215779910/1362337491",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 23:40:01 +0000 2018",
+                "id": 995810927470633000,
+                "id_str": "995810927470632962",
+                "text": "¿Qué arquero llevará a su equipo a la final del #Clausura2018? 🤔\n\n🔁 RT: Marchesín\n❤ MG: Orozco\n\n👉… https://t.co/SFqXINIWBb",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Clausura2018",
+                            "indices": [
+                                48,
+                                61
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/SFqXINIWBb",
+                            "expanded_url": "https://twitter.com/i/web/status/995810927470632962",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                99,
+                                122
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 94429039,
+                    "id_str": "94429039",
+                    "name": "Fútbol Picante",
+                    "screen_name": "futpicante",
+                    "location": "www.facebook.com/futpicante",
+                    "description": "La mejor mesa de ⚽️ de L-D ⏰ 13:00 y 23:00 📺 ESPN2 / ESPN Deportes. DESCARGA la APP 📲: https://t.co/RqqkIx8GI7 SUSCRÍBETE al PODCAST 🎙️: https://t.co/CqOCnc5CPA",
+                    "url": "https://t.co/XIo8onL4GR",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/XIo8onL4GR",
+                                    "expanded_url": "http://www.espn.com.mx/",
+                                    "display_url": "espn.com.mx",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/RqqkIx8GI7",
+                                    "expanded_url": "http://es.pn/app",
+                                    "display_url": "es.pn/app",
+                                    "indices": [
+                                        87,
+                                        110
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/CqOCnc5CPA",
+                                    "expanded_url": "https://apple.co/2BQE9Xh",
+                                    "display_url": "apple.co/2BQE9Xh",
+                                    "indices": [
+                                        137,
+                                        160
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1374931,
+                    "friends_count": 170,
+                    "listed_count": 4114,
+                    "created_at": "Thu Dec 03 22:26:50 +0000 2009",
+                    "favourites_count": 922,
+                    "utc_offset": -18000,
+                    "time_zone": "Mexico City",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 127592,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/284594917/ESPN_DEPORTES_PAGE.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/284594917/ESPN_DEPORTES_PAGE.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/701683110514204672/vXfbF1a2_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/701683110514204672/vXfbF1a2_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/94429039/1456129036",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 57,
+                "favorite_count": 259,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 57,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:08 +0000 2018",
+            "id": 995843926866219000,
+            "id_str": "995843926866219010",
+            "text": "RT @BasharHijazin: #enacional el ministró larrain gasto 4175000 millones para un charla de Harvard....pero Bachelet gasto 35 millones con s…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "enacional",
+                        "indices": [
+                            19,
+                            29
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BasharHijazin",
+                        "name": "bashar hijazin",
+                        "id": 2570934621,
+                        "id_str": "2570934621",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2967043186,
+                "id_str": "2967043186",
+                "name": "Javier Antonio Rojas",
+                "screen_name": "javierantoniorp",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 98,
+                "friends_count": 206,
+                "listed_count": 2,
+                "created_at": "Thu Jan 08 00:47:32 +0000 2015",
+                "favourites_count": 22,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5467,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/708381028050739212/lAL64opK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/708381028050739212/lAL64opK_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 14:07:32 +0000 2018",
+                "id": 995666861105741800,
+                "id_str": "995666861105741824",
+                "text": "#enacional el ministró larrain gasto 4175000 millones para un charla de Harvard....pero Bachelet gasto 35 millones… https://t.co/IYIOSHRV4J",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "enacional",
+                            "indices": [
+                                0,
+                                10
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/IYIOSHRV4J",
+                            "expanded_url": "https://twitter.com/i/web/status/995666861105741824",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2570934621,
+                    "id_str": "2570934621",
+                    "name": "bashar hijazin",
+                    "screen_name": "BasharHijazin",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 19,
+                    "friends_count": 14,
+                    "listed_count": 1,
+                    "created_at": "Thu May 29 19:59:03 +0000 2014",
+                    "favourites_count": 31,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 38,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/472105673833324544/Xvy2SVPl_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/472105673833324544/Xvy2SVPl_normal.jpeg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 196,
+                "favorite_count": 225,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 196,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:07 +0000 2018",
+            "id": 995843921522675700,
+            "id_str": "995843921522675714",
+            "text": "Oscar Opazo adelantó el próximo partido de Colo Colo en Copa Libertadores: “Bolívar se va a meter atrás” https://t.co/AQA9a2TeTP",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/AQA9a2TeTP",
+                        "expanded_url": "https://ift.tt/2KZRPAw",
+                        "display_url": "ift.tt/2KZRPAw",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3291337577,
+                "id_str": "3291337577",
+                "name": "Jose Mancilla",
+                "screen_name": "josemancillap",
+                "location": "",
+                "description": "CSD Colo Colo",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3004,
+                "friends_count": 3359,
+                "listed_count": 5,
+                "created_at": "Wed May 20 13:50:56 +0000 2015",
+                "favourites_count": 2,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23280,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/614803821949251584/E6tvmJKu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/614803821949251584/E6tvmJKu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3291337577/1435417564",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:07 +0000 2018",
+            "id": 995843921145036800,
+            "id_str": "995843921145036802",
+            "text": "RT @alfonsovenegasv: Hector Velázquez gana su quinto partido de la temporada, @Hvelazquez38 vino del relevo,  tirando dos entradas, contra…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "alfonsovenegasv",
+                        "name": "ALFONSO VENEGAS",
+                        "id": 3751169600,
+                        "id_str": "3751169600",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "Hvelazquez38",
+                        "name": "HéctorVelázquez 🇲🇽",
+                        "id": 142966858,
+                        "id_str": "142966858",
+                        "indices": [
+                            78,
+                            91
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2563616186,
+                "id_str": "2563616186",
+                "name": "Edmundo Galaz Jr",
+                "screen_name": "edmundo_galaz",
+                "location": "Obregon Sonora",
+                "description": "Yaquis de ciudad Obregon ⚾️",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 268,
+                "friends_count": 303,
+                "listed_count": 1,
+                "created_at": "Thu Jun 12 15:36:07 +0000 2014",
+                "favourites_count": 3698,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7360,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/984184196930383872/bkHiRzyt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/984184196930383872/bkHiRzyt_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2563616186/1515614158",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 22:38:22 +0000 2018",
+                "id": 995795416309379100,
+                "id_str": "995795416309379072",
+                "text": "Hector Velázquez gana su quinto partido de la temporada, @Hvelazquez38 vino del relevo,  tirando dos entradas, cont… https://t.co/6FnKfELMVF",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Hvelazquez38",
+                            "name": "HéctorVelázquez 🇲🇽",
+                            "id": 142966858,
+                            "id_str": "142966858",
+                            "indices": [
+                                57,
+                                70
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/6FnKfELMVF",
+                            "expanded_url": "https://twitter.com/i/web/status/995795416309379072",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3751169600,
+                    "id_str": "3751169600",
+                    "name": "ALFONSO VENEGAS",
+                    "screen_name": "alfonsovenegasv",
+                    "location": "Juárez, Chihuahua",
+                    "description": "Comentarista de Béisbol en @televisajuarez",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 935,
+                    "friends_count": 585,
+                    "listed_count": 14,
+                    "created_at": "Thu Oct 01 19:42:38 +0000 2015",
+                    "favourites_count": 9841,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 12275,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/956988879503900672/3iLcmveP_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/956988879503900672/3iLcmveP_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3751169600/1518466759",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 7,
+                "favorite_count": 33,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:06 +0000 2018",
+            "id": 995843918699810800,
+            "id_str": "995843918699810817",
+            "text": "RT @anninfans10: ¡Annin en el partido de ayer!✨😘⚽\n\n#LikeLaLeyenda #AKB48 #FelizDomingo #IriyamaAnna #Japanese #入山杏奈 #あんにん #日本 #Televisa #Su…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LikeLaLeyenda",
+                        "indices": [
+                            51,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "AKB48",
+                        "indices": [
+                            66,
+                            72
+                        ]
+                    },
+                    {
+                        "text": "FelizDomingo",
+                        "indices": [
+                            73,
+                            86
+                        ]
+                    },
+                    {
+                        "text": "IriyamaAnna",
+                        "indices": [
+                            87,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "Japanese",
+                        "indices": [
+                            100,
+                            109
+                        ]
+                    },
+                    {
+                        "text": "入山杏奈",
+                        "indices": [
+                            110,
+                            115
+                        ]
+                    },
+                    {
+                        "text": "あんにん",
+                        "indices": [
+                            116,
+                            121
+                        ]
+                    },
+                    {
+                        "text": "日本",
+                        "indices": [
+                            122,
+                            125
+                        ]
+                    },
+                    {
+                        "text": "Televisa",
+                        "indices": [
+                            126,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "anninfans10",
+                        "name": "Annin (LIKE) Official_Fans 公式 ✨",
+                        "id": 981804522522767400,
+                        "id_str": "981804522522767360",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 841097870707118100,
+                "id_str": "841097870707118081",
+                "name": "Ale🌸🇲🇽",
+                "screen_name": "Altresk7",
+                "location": "",
+                "description": "Wota de AKB48 y Army de corazón, me gusta el Jpop y Kpop, mis canciones favoritas uza , save me.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 280,
+                "friends_count": 504,
+                "listed_count": 0,
+                "created_at": "Mon Mar 13 01:25:34 +0000 2017",
+                "favourites_count": 3883,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 8673,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/970488302125039616/DhPIfc8p_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/970488302125039616/DhPIfc8p_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/841097870707118081/1523108509",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 23:08:45 +0000 2018",
+                "id": 995803061149937700,
+                "id_str": "995803061149937665",
+                "text": "¡Annin en el partido de ayer!✨😘⚽\n\n#LikeLaLeyenda #AKB48 #FelizDomingo #IriyamaAnna #Japanese #入山杏奈 #あんにん #日本… https://t.co/7LrRCrruXo",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "LikeLaLeyenda",
+                            "indices": [
+                                34,
+                                48
+                            ]
+                        },
+                        {
+                            "text": "AKB48",
+                            "indices": [
+                                49,
+                                55
+                            ]
+                        },
+                        {
+                            "text": "FelizDomingo",
+                            "indices": [
+                                56,
+                                69
+                            ]
+                        },
+                        {
+                            "text": "IriyamaAnna",
+                            "indices": [
+                                70,
+                                82
+                            ]
+                        },
+                        {
+                            "text": "Japanese",
+                            "indices": [
+                                83,
+                                92
+                            ]
+                        },
+                        {
+                            "text": "入山杏奈",
+                            "indices": [
+                                93,
+                                98
+                            ]
+                        },
+                        {
+                            "text": "あんにん",
+                            "indices": [
+                                99,
+                                104
+                            ]
+                        },
+                        {
+                            "text": "日本",
+                            "indices": [
+                                105,
+                                108
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/7LrRCrruXo",
+                            "expanded_url": "https://twitter.com/i/web/status/995803061149937665",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                110,
+                                133
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 981804522522767400,
+                    "id_str": "981804522522767360",
+                    "name": "Annin (LIKE) Official_Fans 公式 ✨",
+                    "screen_name": "anninfans10",
+                    "location": "Anna Iriyama 入山杏奈 ",
+                    "description": "✨Annin (L.I.K.E) Cuenta oficial de apoyo a Iriyama Anna. ❤\n\n✨Annin (L.I.K.E) Official support account for Iriyama Anna. ❤\n\n✨あんにん (L.I.K.E) 入山杏奈の公式サポートアカウント。❤",
+                    "url": "https://t.co/vgPyrkRBqD",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/vgPyrkRBqD",
+                                    "expanded_url": "https://anninmexicofc.wixsite.com/anninfcmx",
+                                    "display_url": "anninmexicofc.wixsite.com/anninfcmx",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 429,
+                    "friends_count": 8,
+                    "listed_count": 3,
+                    "created_at": "Thu Apr 05 08:03:33 +0000 2018",
+                    "favourites_count": 173,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 194,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/992183763567177728/dwrQN25I_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/992183763567177728/dwrQN25I_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/981804522522767360/1526235618",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 16,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:06 +0000 2018",
+            "id": 995843917500354600,
+            "id_str": "995843917500354562",
+            "text": "RT @CFAmerica16CA: El último partido del 24 como americanista, porfavor.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "CFAmerica16CA",
+                        "name": "🇺🇦CF ÁGUILAS 16 🦅",
+                        "id": 711776597372575700,
+                        "id_str": "711776597372575744",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 820432404,
+                "id_str": "820432404",
+                "name": "Mike Cantú",
+                "screen_name": "mike_cantu11",
+                "location": "",
+                "description": "Semper Fi",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 290,
+                "friends_count": 1002,
+                "listed_count": 1,
+                "created_at": "Wed Sep 12 22:13:01 +0000 2012",
+                "favourites_count": 16356,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 10991,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674369281/cf2d613810b7c0d2dfa62294ac6bc27c.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674369281/cf2d613810b7c0d2dfa62294ac6bc27c.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/949461088118165504/hdbRHbuv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/949461088118165504/hdbRHbuv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/820432404/1513630383",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon May 14 01:49:04 +0000 2018",
+                "id": 995843407712014300,
+                "id_str": "995843407712014343",
+                "text": "El último partido del 24 como americanista, porfavor.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 711776597372575700,
+                    "id_str": "711776597372575744",
+                    "name": "🇺🇦CF ÁGUILAS 16 🦅",
+                    "screen_name": "CFAmerica16CA",
+                    "location": "",
+                    "description": "Cuenta dedicada a la afición del @ClubAmerica |Informar sobre el más grande | #NoTeCompares | #GrandeSolo1 | #OdiameMas| #ANTICHIVA 🚫🐐",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2455,
+                    "friends_count": 505,
+                    "listed_count": 11,
+                    "created_at": "Mon Mar 21 04:48:59 +0000 2016",
+                    "favourites_count": 3074,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 11012,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/959105392197369860/083W51nj_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/959105392197369860/083W51nj_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/711776597372575744/1517022201",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:05 +0000 2018",
+            "id": 995843915491274800,
+            "id_str": "995843915491274753",
+            "text": "RT @AngelinCarrasco: Atleticos, voy solo desde Florencia a Lyon y me gustaría saber si alguien después del partido vuelve desde el estadio…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AngelinCarrasco",
+                        "name": "Angeliiin",
+                        "id": 534945438,
+                        "id_str": "534945438",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3161080799,
+                "id_str": "3161080799",
+                "name": "Emilio",
+                "screen_name": "emilinAE88",
+                "location": "",
+                "description": "Nacido 900 años tarde. Me apasiona la historía y el buen fútbol,mi PATRIA y mi ATLETI, fé que comparto con lo más grande de mi vida.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 816,
+                "friends_count": 839,
+                "listed_count": 44,
+                "created_at": "Sun Apr 12 20:13:21 +0000 2015",
+                "favourites_count": 27903,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 60005,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/972567872269705217/jBh6Q9I0_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/972567872269705217/jBh6Q9I0_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3161080799/1432189209",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 09:22:26 +0000 2018",
+                "id": 995595112498499600,
+                "id_str": "995595112498499584",
+                "text": "Atleticos, voy solo desde Florencia a Lyon y me gustaría saber si alguien después del partido vuelve desde el estad… https://t.co/DD7H0hMAw7",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/DD7H0hMAw7",
+                            "expanded_url": "https://twitter.com/i/web/status/995595112498499584",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 534945438,
+                    "id_str": "534945438",
+                    "name": "Angeliiin",
+                    "screen_name": "AngelinCarrasco",
+                    "location": "",
+                    "description": "Ten por filosofia de vida dejar huella positiva e imborrable por donde pases.Enamorado del Atleti,no podreis entenderlo... Frente Atletico // FT9 //",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 751,
+                    "friends_count": 684,
+                    "listed_count": 2,
+                    "created_at": "Sat Mar 24 00:51:58 +0000 2012",
+                    "favourites_count": 1916,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 8285,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462938433/image.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462938433/image.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/691773894684971009/Dox-ggeO_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/691773894684971009/Dox-ggeO_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/534945438/1479641948",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 132,
+                "favorite_count": 55,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 132,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:05 +0000 2018",
+            "id": 995843912752418800,
+            "id_str": "995843912752418822",
+            "text": "RT @DilmaResiste: Pimenta: PT antevê STF decidindo destino de Lula eleito\nEm vídeo que disseminou pelo twitter, o líder do PT na Câmara, Pa…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DilmaResiste",
+                        "name": "Dilma Lula Resistente #DR",
+                        "id": 4550317786,
+                        "id_str": "4550317786",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 221549322,
+                "id_str": "221549322",
+                "name": "Larri Duarte",
+                "screen_name": "Tuituoutu",
+                "location": "Porto Alegre, Rio Grande do Sul",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 362,
+                "friends_count": 1427,
+                "listed_count": 3,
+                "created_at": "Tue Nov 30 23:36:33 +0000 2010",
+                "favourites_count": 1911,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8058,
+                "lang": "pt",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/819139831779487744/gUykf7J8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/819139831779487744/gUykf7J8_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon May 14 01:39:58 +0000 2018",
+                "id": 995841114933514200,
+                "id_str": "995841114933514240",
+                "text": "Pimenta: PT antevê STF decidindo destino de Lula eleito\nEm vídeo que disseminou pelo twitter, o líder do PT na Câma… https://t.co/TiVakmxKyt",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/TiVakmxKyt",
+                            "expanded_url": "https://twitter.com/i/web/status/995841114933514240",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "pt",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 4550317786,
+                    "id_str": "4550317786",
+                    "name": "Dilma Lula Resistente #DR",
+                    "screen_name": "DilmaResiste",
+                    "location": "",
+                    "description": "Luto pela democracia. Meu tempo é curto, não respondo insultos, não entro em treta. Faço parte da quadrilha q tirou 40 milhões da miséria. #Lula2018\nDM liberada",
+                    "url": "https://t.co/7WDS8mJIQw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/7WDS8mJIQw",
+                                    "expanded_url": "https://www.facebook.com/DilmaResistente/",
+                                    "display_url": "facebook.com/DilmaResistent…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 19048,
+                    "friends_count": 1257,
+                    "listed_count": 54,
+                    "created_at": "Sun Dec 20 21:40:54 +0000 2015",
+                    "favourites_count": 1420,
+                    "utc_offset": -25200,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 62639,
+                    "lang": "pt",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/964278887613157377/FeQP2c2b_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/964278887613157377/FeQP2c2b_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4550317786/1488778437",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 8,
+                "favorite_count": 7,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "pt"
+            },
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "pt"
+        },
+        {
+            "created_at": "Mon May 14 01:51:04 +0000 2018",
+            "id": 995843908901965800,
+            "id_str": "995843908901965824",
+            "text": "RT @LautaroTeso: -Hijo bobo\n-Vamos arriba en el historial\n-Ganeme un partido\n-Te ganamos dos finales\n-Sos de la B\n-Nosotros te dejamos en l…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LautaroTeso",
+                        "name": "Unbekannt",
+                        "id": 1853268428,
+                        "id_str": "1853268428",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 953017741094670300,
+                "id_str": "953017741094670336",
+                "name": "Yae💙",
+                "screen_name": "YaeBuri15",
+                "location": "",
+                "description": "Facultad de ciencias medicas💉💊",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 42,
+                "friends_count": 122,
+                "listed_count": 0,
+                "created_at": "Mon Jan 15 21:35:10 +0000 2018",
+                "favourites_count": 1318,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 313,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/953085021799272448/U5wWvdPL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/953085021799272448/U5wWvdPL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/953017741094670336/1516068368",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 18:14:31 +0000 2018",
+                "id": 995729014777139200,
+                "id_str": "995729014777139200",
+                "text": "-Hijo bobo\n-Vamos arriba en el historial\n-Ganeme un partido\n-Te ganamos dos finales\n-Sos de la B\n-Nosotros te dejam… https://t.co/dkXPW0WEZP",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/dkXPW0WEZP",
+                            "expanded_url": "https://twitter.com/i/web/status/995729014777139200",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1853268428,
+                    "id_str": "1853268428",
+                    "name": "Unbekannt",
+                    "screen_name": "LautaroTeso",
+                    "location": "Estadio 15 de Abril, Santa Fe",
+                    "description": "Los Piojos. Cerati. Tatengue, como toda persona de bien. Si no hay porron, que no haya nada. Sí, soy pelotudo.",
+                    "url": "https://t.co/lOwz1f3P7T",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/lOwz1f3P7T",
+                                    "expanded_url": "http://locojimoylodejamoenlaB.com",
+                                    "display_url": "locojimoylodejamoenlaB.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 966,
+                    "friends_count": 358,
+                    "listed_count": 5,
+                    "created_at": "Wed Sep 11 04:10:13 +0000 2013",
+                    "favourites_count": 7807,
+                    "utc_offset": -10800,
+                    "time_zone": "Brasilia",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 29696,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "131516",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719348585171697665/v9IMBlOg.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719348585171697665/v9IMBlOg.jpg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/995824030451200001/Se4b399w_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/995824030451200001/Se4b399w_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853268428/1520198748",
+                    "profile_link_color": "131516",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 26,
+                "favorite_count": 86,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 26,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:03 +0000 2018",
+            "id": 995843906351845400,
+            "id_str": "995843906351845376",
+            "text": "RT @ramoncotarelo: El @PSOE quiere el \"voto útil\" de la izquierda para regalárselo a la derecha. https://t.co/BTwTrfL14k",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ramoncotarelo",
+                        "name": "Ramón Cotarelo",
+                        "id": 11946772,
+                        "id_str": "11946772",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "PSOE",
+                        "name": "PSOE",
+                        "id": 50982086,
+                        "id_str": "50982086",
+                        "indices": [
+                            22,
+                            27
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/BTwTrfL14k",
+                        "expanded_url": "http://www.publico.es/politica/partido-socialista-psoe-empantanado-protagonismo-busca-mantener-paz-interna.html",
+                        "display_url": "publico.es/politica/parti…",
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 896881659840278500,
+                "id_str": "896881659840278529",
+                "name": "màrius criticus",
+                "screen_name": "freakydeserie",
+                "location": "",
+                "description": "Ens volen cansats, cabrejats, sense ànims. Però el poble català segueix saltant les tanques i segueix unit. Això es el que molesta. Tossudament alçats!!!!!!!!!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 789,
+                "friends_count": 1370,
+                "listed_count": 2,
+                "created_at": "Sun Aug 13 23:50:25 +0000 2017",
+                "favourites_count": 43667,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 53349,
+                "lang": "ca",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/985357462688665600/Zy44YzZv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/985357462688665600/Zy44YzZv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/896881659840278529/1510972593",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 19:56:21 +0000 2018",
+                "id": 995754642536616000,
+                "id_str": "995754642536615942",
+                "text": "El @PSOE quiere el \"voto útil\" de la izquierda para regalárselo a la derecha. https://t.co/BTwTrfL14k",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "PSOE",
+                            "name": "PSOE",
+                            "id": 50982086,
+                            "id_str": "50982086",
+                            "indices": [
+                                3,
+                                8
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/BTwTrfL14k",
+                            "expanded_url": "http://www.publico.es/politica/partido-socialista-psoe-empantanado-protagonismo-busca-mantener-paz-interna.html",
+                            "display_url": "publico.es/politica/parti…",
+                            "indices": [
+                                78,
+                                101
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 11946772,
+                    "id_str": "11946772",
+                    "name": "Ramón Cotarelo",
+                    "screen_name": "ramoncotarelo",
+                    "location": "Girona, Catalunya.",
+                    "description": "Mi bio aparece en mi página web (ver más abajo) y mi blog Palinuro: http://t.co/oqtzVs55cn.  Gracias mil.",
+                    "url": "http://t.co/vPLxV76SrS",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/vPLxV76SrS",
+                                    "expanded_url": "http://ramoncotarelo.com",
+                                    "display_url": "ramoncotarelo.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/oqtzVs55cn",
+                                    "expanded_url": "http://www.cotarelo.blogspot.com",
+                                    "display_url": "cotarelo.blogspot.com",
+                                    "indices": [
+                                        68,
+                                        90
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 163508,
+                    "friends_count": 2017,
+                    "listed_count": 939,
+                    "created_at": "Mon Jan 07 15:41:13 +0000 2008",
+                    "favourites_count": 5220,
+                    "utc_offset": -7200,
+                    "time_zone": "Greenland",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 21359,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/989577779862757378/Qb_4Io5m_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/989577779862757378/Qb_4Io5m_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/11946772/1524769397",
+                    "profile_link_color": "FAB81E",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 321,
+                "favorite_count": 579,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 321,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Mon May 14 01:51:03 +0000 2018",
+            "id": 995843903487205400,
+            "id_str": "995843903487205377",
+            "text": "RT @pochoharb: Alegría por el triunfo más allá de un partido que pudo tener distinto resultado. 3 ptos vitales y que de no haberse conquist…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pochoharb",
+                        "name": "Alfonso Harb V",
+                        "id": 537617976,
+                        "id_str": "537617976",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 841028532,
+                "id_str": "841028532",
+                "name": "Byron Torres",
+                "screen_name": "byrontorres30",
+                "location": "",
+                "description": "30-07-1981",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 42,
+                "friends_count": 229,
+                "listed_count": 1,
+                "created_at": "Sun Sep 23 04:57:16 +0000 2012",
+                "favourites_count": 10995,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11514,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun May 13 23:02:21 +0000 2018",
+                "id": 995801450264649700,
+                "id_str": "995801450264649730",
+                "text": "Alegría por el triunfo más allá de un partido que pudo tener distinto resultado. 3 ptos vitales y que de no haberse… https://t.co/ccTmcUvuAS",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ccTmcUvuAS",
+                            "expanded_url": "https://twitter.com/i/web/status/995801450264649730",
+                            "display_url": "twitter.com/i/web/status/9…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 537617976,
+                    "id_str": "537617976",
+                    "name": "Alfonso Harb V",
+                    "screen_name": "pochoharb",
+                    "location": "",
+                    "description": "Directo, transparente y frontal. Director del movimiento M.E.T.A. Ex legislador, ex Presidente de Barcelona Sporting Club.",
+                    "url": "https://t.co/d28MAdbaCP",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/d28MAdbaCP",
+                                    "expanded_url": "http://www.pochoweb.com",
+                                    "display_url": "pochoweb.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 19758,
+                    "friends_count": 417,
+                    "listed_count": 65,
+                    "created_at": "Mon Mar 26 20:24:15 +0000 2012",
+                    "favourites_count": 118,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 28159,
+                    "lang": "es",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFF04D",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/3642504604/e02fad764ecb3753f9dcd1935aa26c85_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3642504604/e02fad764ecb3753f9dcd1935aa26c85_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/537617976/1368241744",
+                    "profile_link_color": "0099CC",
+                    "profile_sidebar_border_color": "FFF8AD",
+                    "profile_sidebar_fill_color": "F6FFD1",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 27,
+                "favorite_count": 59,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 27,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.051,
+        "max_id": 995843933690216400,
+        "max_id_str": "995843933690216448",
+        "next_results": "?max_id=995843903487205376&q=partido&include_entities=1",
+        "query": "partido",
+        "refresh_url": "?since_id=995843933690216448&q=partido&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
