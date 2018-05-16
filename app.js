@@ -47,10 +47,6 @@ stream.on('error', function(error) {
     throw error;
 });
 
-//from that JSON, get language and location
-//language: "iso_language_code" or "lang"
-//"location", "geo" or "time_zone" doesn't always exist
-
 //Get your favourites
 // client.get('favorites/list', function(error, tweets, response) {
 //     if(error) throw error;
