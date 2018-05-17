@@ -13,16 +13,18 @@ app.get("/", function(req,res){
     res.render("home");
 })
 
-var obj = JSON.parse("./test.json")
-console.log(typeOf(obj))
-/*
+var obj = JSON.parse(fs.readFileSync('test.json', 'utf8'));
+console.log(typeof(obj));
 obj.forEach(function(tweet){
   console.log(tweet.created_at);
   console.log(tweet.user.time_zone);
-  console.log(tweet.user.time_zone);
   console.log(tweet.user.lang);
 })
-*/
+//how to extract data is above
+
+//next steps are to save that data elsewhere and then figure out how to graph it
+
+
 
 //get data out of json that you want to graph -- from test.json
 //likely need to JSON.parse
