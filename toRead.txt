@@ -1,0 +1,27 @@
+https://github.com/desmondmorris/node-twitter/tree/master/examples#tweet
+
+Endpoints for API:
+https://developer.twitter.com/en/docs/api-reference-index
+
+How to use search API:
+https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html
+
+Using those standard search endpoints:
+https://developer.twitter.com/en/docs/tweets/search/guides/standard-operators
+
+What data gets returned?
+https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json
+
+another d3 server:
+https://gist.github.com/palanik/ba5e15dbbc7ea0574ae0d38252563b0d
+
+introduction to tweet json:
+https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json
+
+text-mining in twitter:
+http://adilmoujahid.com/posts/2014/07/twitter-analytics/
+
+https://stackoverflow.com/questions/10368171/how-to-extract-a-json-object-thats-inside-a-json-object
+
+streaming in realtime: 
+https://developer.twitter.com/en/docs/tweets/filter-realtime/guides/basic-stream-parameters

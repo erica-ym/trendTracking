@@ -1,4 +1,28 @@
 var d3 = require("d3");
+var fs = require('file-system');
+var express = require("express");
+var app = express();
+
+app.set("view engine","ejs");
+
+app.listen(8080, function() {
+    console.log("trendTracking server has started on port 8080");
+} );
+
+app.get("/", function(req,res){
+    res.render("home");
+})
+
+var obj = JSON.parse("./test.json")
+console.log(typeOf(obj))
+/*
+obj.forEach(function(tweet){
+  console.log(tweet.created_at);
+  console.log(tweet.user.time_zone);
+  console.log(tweet.user.time_zone);
+  console.log(tweet.user.lang);
+})
+*/
 
 //get data out of json that you want to graph -- from test.json
 //likely need to JSON.parse
@@ -18,3 +42,5 @@ var d3 = require("d3");
 
 //an example of a server with D3
 //https://gist.github.com/Caged/6407459
+//another d3 server:
+//https://gist.github.com/palanik/ba5e15dbbc7ea0574ae0d38252563b0d
