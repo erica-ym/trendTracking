@@ -40,7 +40,7 @@ var stream = client.stream('statuses/filter', {track: 'airbnb'});
     console.log(event && event.text);
     var add = event;
     streamingData.push(add);
-    fs.writeFile('test.json', JSON.stringify(streamingData, null, 4), 'utf8');
+    fs.writeFile('testTwo.json', JSON.stringify(streamingData, null, 4), 'utf8');
     });
 
 stream.on('error', function(error) {

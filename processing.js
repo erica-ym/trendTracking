@@ -3,6 +3,7 @@ var fs = require('file-system');
 var express = require("express");
 var app = express();
 
+app.use(express.static(__dirname + "/public"));
 app.set("view engine","ejs");
 
 app.listen(8080, function() {
@@ -13,11 +14,14 @@ app.get("/", function(req,res){
     res.render("home");
 })
 
-var obj = JSON.parse(fs.readFileSync('test.json', 'utf8'));
+
+
+var obj = JSON.parse(fs.readFileSync('testTwo.json', 'utf8'));
 console.log(typeof(obj));
 obj.forEach(function(tweet){
-  console.log(tweet.created_at);
+  console.log(tweet.user.retweet_count);
   console.log(tweet.user.time_zone);
+  console.log(tweet.user.location);
   console.log(tweet.user.lang);
 })
 //how to extract data is above
