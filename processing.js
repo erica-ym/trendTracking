@@ -14,8 +14,6 @@ app.get("/", function(req,res){
     res.render("home");
 })
 
-
-
 var obj = JSON.parse(fs.readFileSync('testTwo.json', 'utf8'));
 console.log(typeof(obj));
 obj.forEach(function(tweet){
