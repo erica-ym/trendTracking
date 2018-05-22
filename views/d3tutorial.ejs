@@ -48,3 +48,19 @@ var p = d3.select("body").selectAll("p")
       return (i + "=" + data); } ); //can write way more elaborate things here
     //the function goes through each element, gets the __data__ property and returns it to the Text Operator
 </script>
+
+<!--
+Notes from tutorial:
+d3 selections are ARRAYS
+the .data() operator should receive an array of data regardless of what's inside the array
+here's some filetypes that d3 can accept:
+-an XMLHttpRequest
+-a text file
+-a JSON blob
+-an HTML document fragment
+-an XML document fragment
+-a comma-separated values (CSV) file
+-a tab-separated values (TSV) file
+
+Remember that in JSON, the object variables are always in double quotes. That's diff than JS arrays. 
+-->

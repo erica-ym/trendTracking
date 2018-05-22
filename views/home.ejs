@@ -10,23 +10,52 @@
 
 <script>
 
+//adds the svgContainer
 var svgContainer = d3.select("body")
   .append("svg")
   .attr("width", 200)
   .attr("height", 200)
 
-var spaceCircles = [30, 70, 120]
+var dataCircles = [
+    {
+      x_axis: 30,
+      y_axis: 30,
+      radius: 20,
+      color: "green"
+    },
+    {
+      x_axis: 60,
+      y_axis: 60,
+      radius: 35,
+      color: "blue"
+    },
+    {
+      x_axis: 90,
+      y_axis: 90,
+      radius: 50,
+      color: "red"
+    }
+  ];
 
+//adds the data and circles into this same container
 var circles = svgContainer.selectAll("circle")
-    .data(spaceCircles)
+    .data(dataCircles)
     .enter()
     .append("circle")
 
-var circles
-    .attr("cx", function(d) {return d})
-    .attr("cy", function(d) {return d})
-    .attr("r", 20)
+//adds the attributes to the circles
+var circleAttributes = circles
+    .attr("cx", function(d) {return d.x_axis})
+    .attr("cy", function(d) {return d.y_axis})
+    .attr("r", function(d) {return d.radius})
+    .style("fill", function(d){return d.color});
 
+//for a rectangle, use "rect", "x", "y", "width", and "height"
+//for an ellipse, use "ellipse", "cx", "cy", "rx", "ry"
+//for a line, use "line", "x1", "x2", "y1", "y2"
+//need to give a line .attribute("stroke-width", widthNumber) and .attribute("stroke", "color") in order to see it
+//for a polyline, use "polyline" and give points
+//for a polygon, use "polygon" and give points
 </script>
 
 <style>
